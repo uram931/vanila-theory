@@ -1,3 +1,4 @@
+/*eslint-env browser*/
 // 자바스크립트는 좋지 않은 문법을 사용해도 그에 대해 잘 알려주지 않는다
 // 각각의 라인(문장)들을 Expressions라고 칭한다
 // 모든 expression은 한줄에 있어야 하며,모든 instruction 또한 한줄에 있어야 한다
